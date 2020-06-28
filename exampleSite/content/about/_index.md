@@ -2,13 +2,15 @@
 title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: Let's Get Acquainted!
-image: images/author.jpg
+image: ''
 
 ---
+![](/images/author.jpg)
+
 #### Let's Get Acquainted!
 
-Thanks for coming by to check me out- I'm excited to share this journey with you!  
-  
+Thanks for coming by to check me out- I'm excited to share this journey with you!
+
 I have had laugh lines since I was 16- laughter and joy have always been a big part of my life. No matter the situation, I find myself always trying to get others to smile and laugh. Growing up I tried everything I could from singing and dancing, to rock climbing and canoeing, to French club and math club, yet always found the most joy in making others smile. This didn't lead me to a clear career path however.
 
 My adulthood hasn't always been the thing of sunshine and to this day I still struggle with feeling lost at times. Bad romantic relationships, unhealthy friendships, mountains of debt and a shredded credit score, and struggling to stay afloat financially and emotionally plagued me despite my attempts to gloss it all over with a happy persona online and out socially. Working multiple jobs, being taken advantage of by those close to me, and having multiple car accidents I felt like I could never catch a break. I'd often think back to my grandfather's saying "If I didn't have bad luck, I'd have no luck at all!"
