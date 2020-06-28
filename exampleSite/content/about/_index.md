@@ -5,9 +5,10 @@ description: Let's Get Acquainted!
 image: ''
 
 ---
-![](/images/author.jpg)
 
 #### Let's Get Acquainted!
+
+![](/images/author.jpg)
 
 Thanks for coming by to check me out- I'm excited to share this journey with you!
 
