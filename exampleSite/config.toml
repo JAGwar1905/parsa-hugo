@@ -16,12 +16,12 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+author = "Amanda Mae Gray"
 author_image = "images/banner-img.png"
 bio = ""
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-description = "This is meta description"
+copyright = "Copyright &copy; 2020"
+description = "Building A Joyful Life!"
 email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
