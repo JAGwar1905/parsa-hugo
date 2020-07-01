@@ -8,6 +8,7 @@ title = "What Does Abundance Really Mean?"
 type = "post"
 
 +++
+
 {{< youtube id="3KhwdSdOSB4" autoplay="true" >}}
 
 ### Transcript of Video:
