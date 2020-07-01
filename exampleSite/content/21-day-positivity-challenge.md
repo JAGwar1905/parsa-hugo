@@ -2,7 +2,7 @@
 categories = []
 date = 2020-05-07T04:00:00Z
 description = "21 Day Positivity Challenge"
-image = ""
+image = "/images/21day.jpg"
 tags = []
 title = "21 Day Positivity Challenge"
 type = "post"
