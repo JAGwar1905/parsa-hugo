@@ -8,11 +8,11 @@ title = "What Does Abundance Really Mean?"
 type = "post"
 
 +++
-{{< youtube id="3KhwdSdOSB4" autoplay="true" >}}
+{{< youtube id="" autoplay="true" >}}
 
 Transcript of Video:
 
-{{< youtube id="L8TWDPakZs4" autoplay="true" >}}
+{{< youtube id="3KhwdSdOSB4" autoplay="true" >}}
 
 What do you think of when you hear the word abundance? Is it wealth? What about love? Or maybe food! Or are you more of an abundance of caution kind of person? I know, I know- you bankers gotta use that all the time. And an abundance of caution, well, it’s not always a bad thing. I definitely could have used that more than once in my life…when I didn’t.
 
