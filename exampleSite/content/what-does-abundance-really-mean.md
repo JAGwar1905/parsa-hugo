@@ -8,7 +8,7 @@ title = "What Does Abundance Really Mean?"
 type = "post"
 
 +++
-[https://youtu.be/3KhwdSdOSB4](https://youtu.be/3KhwdSdOSB4 "https://youtu.be/3KhwdSdOSB4")
+{{< [https://youtu.be/3KhwdSdOSB4](https://youtu.be/3KhwdSdOSB4 "https://youtu.be/3KhwdSdOSB4") >}}
 
 Transcript of Video:
 
