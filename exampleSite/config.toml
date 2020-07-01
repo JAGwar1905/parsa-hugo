@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
 author = "Amanda Mae Gray"
-author_image = ""
+author_image = "images/banner-img.jpg"
 bio = ""
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020"
