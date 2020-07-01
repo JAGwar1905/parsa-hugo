@@ -22,7 +22,7 @@ bio = ""
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020"
 description = "Building A Joyful Life!"
-email = "exmaple@ymail.com"
+email = "amandamae.gray@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "2"
@@ -63,14 +63,14 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/Amandamaegray/"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://twitter.com/AmandaMaeGray"
 icon = "ti-twitter-alt"
 [[params.social]]
-URL = "#"
+URL = "https://www.linkedin.com/in/amanda-mae-gray-51880093/"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
-icon = "ti-github"
+URL = "https://www.instagram.com/amandamaegray/"
+icon = "ti-instagram"
