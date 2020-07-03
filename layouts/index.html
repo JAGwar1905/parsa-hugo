@@ -57,6 +57,25 @@
 </section>
 {{ end }}
 
+<!-- subscribe area -->
+<form name="subscribe" action="{{ .Site.Params.subscribe_form_action }}" class="row mt-2 mb-2" netlify></form>
+<section class="section">
+  <div class="container text-center">
+    <h2>Subscribe to my Newsletter!</h2>
+  
+  <div class="col-12">
+    <input type="email" class="form-control mb-4" name="email" id="email" placeholder="Email">
+  </div>
+  <div class="col-12">
+    <button class="btn btn-primary">Subscribe</button>
+  </div>
+</div>
+
+</section>
+</form>
+
+<!-- /subscribe area -->
+
 <!-- blog post -->
 <section class="section">
   <div class="container">
