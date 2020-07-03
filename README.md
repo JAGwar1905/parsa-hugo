@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c45eb062-0365-4b95-a897-6d91963b5349/deploy-status)](https://app.netlify.com/sites/friendly-mirzakhani-dd5fe2/deploys)
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with Parsa hugo theme by following this easy steps (No Coding Required)
 
