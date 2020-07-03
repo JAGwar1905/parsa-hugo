@@ -5,7 +5,7 @@ description = "What Does Abundance Really Mean?"
 image = "/images/whatdoesabundancereallymean.jpg"
 tags = []
 title = "What Does Abundance Really Mean?"
-type = "post"
+type = "featured"
 
 +++
 {{< youtube id="3KhwdSdOSB4" autoplay="true" >}}
