@@ -5,7 +5,7 @@ description = ""
 image = ""
 tags = []
 title = "5 Steps to Find Your Joy Even During Tough Times"
-type = "featured"
+type = "post"
 
 +++
 {{< youtube id="Lgmb6zDnz8Y" autoplay="true" >}}
