@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Abundance"]
 date = 2020-05-28T04:00:00Z
 description = "What Does Abundance Really Mean?"
 image = "/images/whatdoesabundancereallymean.jpg"
@@ -8,7 +8,6 @@ title = "What Does Abundance Really Mean?"
 type = "post"
 
 +++
-
 {{< youtube id="3KhwdSdOSB4" autoplay="true" >}}
 
 [https://youtu.be/3KhwdSdOSB4](https://youtu.be/3KhwdSdOSB4 "https://youtu.be/3KhwdSdOSB4")
