@@ -6,7 +6,7 @@ type: post
 image: "/images/author.jpg"
 
 ---
-#### Let's Get Acquainted!
+##### Let's Get Acquainted!
 
 Thanks for coming by to check me out- I'm excited to share this journey with you!
 
