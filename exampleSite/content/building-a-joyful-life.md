@@ -5,7 +5,7 @@ description = "What brings you joy? How do you find motivation? What inspires yo
 image = "images/summit.jpg"
 tags = []
 title = "Building a Joyful Life"
-type = "post"
+type = "featured"
 
 +++
 ##### What brings you joy? How do you find motivation? What inspires you?
