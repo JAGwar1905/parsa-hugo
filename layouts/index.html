@@ -61,8 +61,9 @@
 <section class="section">
   <div class="container text-center">
       <form name="subscribe" action="{{ .Site.Params.subscribe_form_action }}" class="row mt-2 mb-2" netlify>
-        <h2>Subscribe to my Newsletter!</h2>
-  
+        <div class="col-12">
+          <h2>Subscribe to my Newsletter!</h2>
+        </div>
         <div class="col-12">
           <input type="email" class="form-control mb-4" name="email" id="email" placeholder="Email">
         </div>
