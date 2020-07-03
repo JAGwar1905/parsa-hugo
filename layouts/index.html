@@ -1,28 +1,7 @@
 {{ define "main" }}
 
 {{ if eq .Site.Params.layout "1" }}
-<!-- featured post -->
-<section class="overflow-hidden">
-  <div class="container-fluid p-sm-0">
-    <div class="row featured-post-slider">
-      {{ range (where .Site.RegularPages "Type" "featured")}}
-      <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
-        <article class="card bg-dark text-center text-white border-0 rounded-0">
-          <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
-          <div class="card-img-overlay">
-            <div class="card-content">
-              <p class="text-uppercase">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
-              <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
-              <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
-            </div>
-          </div>
-        </article>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-<!-- /featured post -->
+
 
 {{ else if (eq .Site.Params.layout "2")}}
 
@@ -49,6 +28,8 @@
 </section>
 <!-- /hero area -->
 
+
+
 {{ else }}
 <section class="section">
   <div class="container text-center">
@@ -56,6 +37,8 @@
   </div>
 </section>
 {{ end }}
+
+
 
 <!-- subscribe area -->
 <section class="section">
@@ -76,6 +59,31 @@
 
 
 <!-- /subscribe area -->
+
+
+<!-- featured post -->
+<section class="overflow-hidden">
+  <div class="container-fluid p-sm-0">
+    <div class="row featured-post-slider">
+      {{ range (where .Site.RegularPages "Type" "featured")}}
+      <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
+        <article class="card bg-dark text-center text-white border-0 rounded-0">
+          <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
+          <div class="card-img-overlay">
+            <div class="card-content">
+              <p class="text-uppercase">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
+              <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
+              <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
+            </div>
+          </div>
+        </article>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /featured post -->
+
 
 <!-- blog post -->
 <section class="section">
