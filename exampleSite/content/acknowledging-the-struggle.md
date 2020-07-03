@@ -5,7 +5,7 @@ description = ""
 image = ""
 tags = []
 title = "Acknowledging the Struggle"
-type = "post"
+type = "featured"
 
 +++
 {{< youtube id="orO5Pdpgtq0" autoplay="true" >}}
