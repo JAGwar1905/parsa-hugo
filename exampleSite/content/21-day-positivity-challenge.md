@@ -5,7 +5,7 @@ description = "21 Day Positivity Challenge"
 image = "/images/21day.jpg"
 tags = []
 title = "21 Day Positivity Challenge"
-type = "post"
+type = "featured"
 
 +++
 {{< youtube id="L8TWDPakZs4" autoplay="true" >}}
