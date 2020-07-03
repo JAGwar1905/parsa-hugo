@@ -2,12 +2,11 @@
 title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: Let's Get Acquainted!
-type: "post"
-image: '/images/author.jpg'
+type: post
+image: "/images/author.jpg"
 
 ---
-
-#### Let's Get Acquainted!
+### Let's Get Acquainted!
 
 Thanks for coming by to check me out- I'm excited to share this journey with you!
 
