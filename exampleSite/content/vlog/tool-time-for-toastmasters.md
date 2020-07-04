@@ -1,7 +1,7 @@
 +++
 categories = ["Toastmasters"]
 description = "Tool Time for Toastmasters"
-image = ""
+image = "/images/photo-by-amg-in-kennesaw-georgia.jpg"
 tag = "Toastmasters"
 title = "Tool Time for Toastmasters"
 youtube = "PLV_3mN8x6eiDGLdlcLm78TJt0zHsm-xgw"
