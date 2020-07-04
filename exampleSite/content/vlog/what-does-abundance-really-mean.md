@@ -3,6 +3,7 @@ categories = ["Abundance"]
 date = "2020-05-28T04:00:00.000+00:00"
 description = "What Does Abundance Really Mean?"
 image = "/images/whatdoesabundancereallymean.jpg"
+tag = "Abundance"
 tags = []
 title = "What Does Abundance Really Mean?"
 video = "3KhwdSdOSB4"
