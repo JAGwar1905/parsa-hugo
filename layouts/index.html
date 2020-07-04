@@ -60,6 +60,14 @@
 
 <!-- /subscribe area -->
 
+    <!-- Video area -->
+    {{ if .Site.Params.visual.video.enable }}
+
+      {{ partial "video" . }}
+
+    {{ end }}
+
+    <!-- /Video area -->
 
 <!-- featured post -->
 <section class="overflow-hidden">

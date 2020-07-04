@@ -35,6 +35,24 @@ subscribe_form_action = "#"
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = true
 user_id = "4044026246"
+
+# Section - Visual
+[params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = false
+      file = "images/background.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      youtubeId = "3KhwdSdOSB4"
+
+
+
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -75,3 +93,5 @@ icon = "ti-linkedin"
 [[params.social]]
 URL = "https://www.instagram.com/amandamaegray/"
 icon = "ti-instagram"
+
+
