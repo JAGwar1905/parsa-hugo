@@ -1,7 +1,6 @@
 +++
 categories = ["Toastmasters"]
 description = "Tool Time for Toastmasters"
-draft = true
 image = ""
 tag = "Toastmasters"
 title = "Tool Time for Toastmasters"
