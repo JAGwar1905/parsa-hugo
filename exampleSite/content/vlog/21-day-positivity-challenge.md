@@ -9,6 +9,4 @@ video = "L8TWDPakZs4"
 youtube = "L8TWDPakZs4"
 
 +++
-{{< youtube id="L8TWDPakZs4" autoplay="true" >}}
-
 I want more positivity in my life and I figure I'm probably not alone. If you would like to join me click the link below to sign up for the 1st ever challenge hosted by me!
