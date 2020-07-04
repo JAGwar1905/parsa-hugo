@@ -33,3 +33,5 @@ fields:
   config:
     required: false
   label: Tag
+pages:
+- exampleSite/content/vlog/21-day-positivity-challenge2.md
