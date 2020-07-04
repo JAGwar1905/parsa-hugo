@@ -3,6 +3,7 @@ categories = []
 date = "2020-05-01T04:00:00.000+00:00"
 description = "Acknowledging the Struggle"
 image = ""
+tag = "Struggle"
 tags = []
 title = "Acknowledging the Struggle"
 video = "orO5Pdpgtq0"
