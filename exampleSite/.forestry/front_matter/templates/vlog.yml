@@ -12,11 +12,15 @@ fields:
   config:
     required: false
   label: YouTube
-- name: tag
-  type: text
+- name: description
+  type: textarea
+  default: ''
   config:
     required: false
-  label: Tag
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
 - name: categories
   type: list
   config:
@@ -24,3 +28,8 @@ fields:
     min: 
     max: 
   label: Categories
+- name: tag
+  type: text
+  config:
+    required: false
+  label: Tag
