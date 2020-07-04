@@ -6,7 +6,7 @@ image = "/images/whatdoesabundancereallymean.jpg"
 tags = []
 title = "What Does Abundance Really Mean?"
 type = "featured"
-youtube = "{{< youtube id=\"3KhwdSdOSB4\" autoplay=\"true\" >}}"
+youtube = "https://youtu.be/3KhwdSdOSB4"
 
 +++
 {{< youtube id="3KhwdSdOSB4" autoplay="true" >}}
