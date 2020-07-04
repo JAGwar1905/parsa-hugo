@@ -8,8 +8,6 @@ title = "What Does Abundance Really Mean?"
 video = "3KhwdSdOSB4"
 
 +++
-{{< youtube id="3KhwdSdOSB4" autoplay="true" >}}
-
 [https://youtu.be/3KhwdSdOSB4](https://youtu.be/3KhwdSdOSB4 "https://youtu.be/3KhwdSdOSB4")
 
 ### Transcript of Video:
