@@ -48,7 +48,7 @@ user_id = "4044026246"
     # Video
     [params.visual.video]
       enable = false
-      mute = true
+      mute = false
       youtubeId = "3KhwdSdOSB4"
 
 
