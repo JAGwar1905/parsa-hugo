@@ -26,11 +26,6 @@ fields:
   config:
     required: false
   label: YouTube
-- name: video
-  type: text
-  config:
-    required: false
-  label: Video
 - name: categories
   type: list
   config:
