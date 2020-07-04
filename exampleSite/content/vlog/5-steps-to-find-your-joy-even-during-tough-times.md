@@ -2,7 +2,6 @@
 categories = []
 date = "2020-05-05T04:00:00.000+00:00"
 description = ""
-draft = true
 image = ""
 tags = []
 title = "5 Steps to Find Your Joy Even During Tough Times"
