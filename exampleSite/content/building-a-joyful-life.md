@@ -4,7 +4,7 @@ date = 2020-04-17T04:00:00Z
 description = "What brings you joy? How do you find motivation? What inspires you?"
 image = "images/summit.jpg"
 tags = []
-title = "Building a Joyful Life"
+title = "Building a Joyful Life!"
 type = "post"
 
 +++
