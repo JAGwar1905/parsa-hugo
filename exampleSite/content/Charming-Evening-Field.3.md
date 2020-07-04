@@ -4,11 +4,9 @@ date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: post
 image: images/masonary-post/post-4.jpg
-categories:
-- Food
-tags:
-- Photos
-- Food
+categories: []
+tags: []
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
