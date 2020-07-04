@@ -7,11 +7,6 @@ fields:
   config:
     required: false
   label: Title
-- name: youtube
-  type: text
-  config:
-    required: false
-  label: YouTube
 - name: description
   type: textarea
   default: ''
@@ -21,6 +16,16 @@ fields:
     schema:
       format: markdown
   label: description
+- name: youtube
+  type: text
+  config:
+    required: false
+  label: YouTube
+- name: video
+  type: text
+  config:
+    required: false
+  label: Video
 - name: categories
   type: list
   config:
@@ -37,6 +42,7 @@ fields:
   type: text
   config:
     required: false
-  label: type
+  label: Type
+  description: 'type: post or featured or vlog'
 pages:
 - exampleSite/content/vlog/21-day-positivity-challenge2.md
