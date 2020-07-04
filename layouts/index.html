@@ -1,9 +1,5 @@
 {{ define "main" }}
 
-{{ if eq .Site.Params.layout "1" }}
-
-
-{{ else if (eq .Site.Params.layout "2")}}
 
 <!-- hero area -->
 <section class="hero-section">
@@ -29,17 +25,6 @@
 <!-- /hero area -->
 
 
-
-{{ else }}
-<section class="section">
-  <div class="container text-center">
-    <h1>Please Enter A Valid Homepage Layout Number <br> (1 or 2)</h1>
-  </div>
-</section>
-{{ end }}
-
-
-
 <!-- subscribe area -->
 <section class="section">
   <div class="container text-center">
@@ -60,51 +45,19 @@
 
 <!-- /subscribe area -->
 
-    <!-- Video area -->
-    {{ if .Site.Params.visual.video.enable }}
-
-      {{ partial "video" . }}
-
-    {{ end }}
-
-    <!-- /Video area -->
-
-<!-- featured post -->
-<section class="overflow-hidden">
-  <div class="container-fluid p-sm-0">
-    <div class="row featured-post-slider">
-      {{ range (where .Site.RegularPages "Type" "featured")}}
-      <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
-        <article class="card bg-dark text-center text-white border-0 rounded-0">
-          <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
-          <div class="card-img-overlay">
-            <div class="card-content">
-              <p class="text-uppercase">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
-              <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
-              <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
-            </div>
-          </div>
-        </article>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-<!-- /featured post -->
-
 <!-- YouTube -->
-<section class="overflow-hidden">
-  <div class="container-fluid p-sm-0">
+<section class="section">
+  <div class="container-fluid">
     <div class="row featured-post-slider">
       {{ range (where .Site.RegularPages "Type" "youtube")}}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
         <article class="card bg-dark text-center text-white border-0 rounded-0">
-          <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
+          {{ partial "video" . }}
           <div class="card-img-overlay">
             <div class="card-content">
               <p class="text-uppercase">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
               <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
-              <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
+              
             </div>
           </div>
         </article>
