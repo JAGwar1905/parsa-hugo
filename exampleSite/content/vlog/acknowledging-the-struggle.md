@@ -5,7 +5,6 @@ description = ""
 image = ""
 tags = []
 title = "Acknowledging the Struggle"
-type = "vlog"
 
 +++
 {{< youtube id="orO5Pdpgtq0" autoplay="true" >}}
