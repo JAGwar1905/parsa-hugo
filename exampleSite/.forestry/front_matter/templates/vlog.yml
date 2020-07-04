@@ -17,3 +17,10 @@ fields:
   config:
     required: false
   label: Tag
+- name: categories
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Categories
