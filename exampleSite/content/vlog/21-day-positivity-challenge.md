@@ -1,8 +1,9 @@
 +++
-categories = []
+categories = ["21 Day Positivity Challenge"]
 date = "2020-05-07T04:00:00.000+00:00"
 description = "21 Day Positivity Challenge"
 image = "/images/21day.jpg"
+tag = "21 Day Positivity Challenge"
 tags = []
 title = "21 Day Positivity Challenge"
 video = "L8TWDPakZs4"
