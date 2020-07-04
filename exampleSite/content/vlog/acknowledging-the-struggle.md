@@ -1,11 +1,12 @@
 +++
 categories = []
-date = 2020-05-01T04:00:00Z
+date = "2020-05-01T04:00:00.000+00:00"
 description = ""
 image = ""
 tags = []
 title = "Acknowledging the Struggle"
 type = "post"
+youtube = "{{< youtube id=\"orO5Pdpgtq0\" autoplay=\"true\" >}}"
 
 +++
 {{< youtube id="orO5Pdpgtq0" autoplay="true" >}}
