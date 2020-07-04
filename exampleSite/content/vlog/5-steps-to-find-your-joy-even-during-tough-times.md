@@ -5,6 +5,7 @@ description = ""
 image = ""
 tags = []
 title = "5 Steps to Find Your Joy Even During Tough Times"
+youtube = "{{< youtube id=\"Lgmb6zDnz8Y\" autoplay=\"true\" >}}"
 
 +++
 {{< youtube id="Lgmb6zDnz8Y" autoplay="true" >}}
