@@ -44,3 +44,5 @@ fields:
     required: false
   label: Type
   description: 'type: post or featured or vlog'
+pages:
+- exampleSite/content/vlog/tool-time-for-toastmasters.md
