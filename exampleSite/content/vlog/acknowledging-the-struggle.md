@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2020-05-01T04:00:00.000+00:00"
-description = ""
+description = "Acknowledging the Struggle"
 image = ""
 tags = []
 title = "Acknowledging the Struggle"
@@ -9,8 +9,6 @@ video = "orO5Pdpgtq0"
 youtube = "orO5Pdpgtq0"
 
 +++
-{{< youtube id="orO5Pdpgtq0" autoplay="true" >}}
-
 The entire month of April has officially been in lockdown across the world. The whole world is grappling with this COVID-19 pandemic. The adjustments to everyday life have become less scary as they have become so familiar. It has not been easy by any means. This storm has challenged everyone in so many different ways. We feel the changes and the struggles differently yet all have a common ground of unknown.
 
 I have struggled in adjusting where some days are simply better than others. Feeling productive, accomplished, happy and good about my life have not been the dominate theme day in and day out. Instead I find myself getting frustrated, annoyed, complacent, and just unsure about what exactly I am supposed to be doing with myself.
