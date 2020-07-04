@@ -12,12 +12,12 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/vlog
-  label: Vlog
+  path: exampleSite/content/youtube
+  label: YouTube
   create: all
   match: "*"
   templates:
-  - vlog
+  - youtube
 - type: directory
   path: exampleSite/content/about
   label: About

@@ -1,5 +1,5 @@
 ---
-label: Vlog
+label: YouTube
 hide_body: false
 fields:
 - name: title
@@ -43,6 +43,6 @@ fields:
   config:
     required: false
   label: Type
-  description: 'type: post or featured or vlog'
+  description: 'type: post or featured or youtube'
 pages:
-- exampleSite/content/vlog/tool-time-for-toastmasters.md
+- exampleSite/content/youtube/tool-time-for-toastmasters.md

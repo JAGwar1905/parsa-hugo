@@ -25,4 +25,4 @@ fields:
   name: type
   label: type
   default: post
-  description: 'type: post or featured or vlog'
+  description: 'type: post or featured or youtube'
