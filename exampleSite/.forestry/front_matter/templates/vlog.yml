@@ -12,3 +12,8 @@ fields:
   config:
     required: false
   label: YouTube
+- name: tag
+  type: text
+  config:
+    required: false
+  label: Tag
