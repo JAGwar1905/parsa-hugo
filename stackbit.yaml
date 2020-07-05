@@ -10,4 +10,17 @@ excludePages:
   - example/**/*
   - README.md
 models:
+    about:
+      type: page
+      lable: About Page
+      match: *.md
+      layout: about
+      fields:
+        ...
+    contact:
+      type: page
+      match: *.md
+      lablel: Contact Page
+      fields:
+        
   ... # see Stackbit Content Model documentation
