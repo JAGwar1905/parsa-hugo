@@ -1,6 +1,6 @@
 +++
 categories = ["Tool Time for Toastmasters"]
-date = 2020-06-23T04:00:00Z
+date = 2020-06-22T04:00:00Z
 description = "How to Position Your Camera for Video Calls Zoom Speaking Toastmasters"
 image = "/images/photo-by-amg-in-kennesaw-georgia.jpg"
 tag = "#toastmasters #TT4TM #professional"
