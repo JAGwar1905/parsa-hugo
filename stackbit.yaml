@@ -1,7 +1,7 @@
 stackbitVersion: ~0.2.0
 ssgName: hugo    # allowed values: unibit, jekyll, hugo, gatsby, custom
-buildCommand: npm run build  # build command that builds static site
-publishDir: dist   # folder with the generated static site files
+buildCommand: cd exampleSite && hugo --gc --themesDir ../..  # build command that builds static site
+publishDir: exampleSite/public   # folder with the generated static site files
 staticDir: exampleSite/static  # folder with files that are copied to publishDir as is
 uploadDir: exampleSite/static/images  # folder with media files, relative to staticDir
 pagesDir: exampleSite/content  # folder with markdown page files
