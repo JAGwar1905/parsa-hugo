@@ -45,4 +45,5 @@ fields:
   label: Type
   description: 'type: post or featured or youtube'
 pages:
+- exampleSite/content/youtube/how-to-look-good-on-camera-with-proper-framing-for-zoom-toastmasters-video-calls.md
 - exampleSite/content/youtube/tool-time-for-toastmasters.md
