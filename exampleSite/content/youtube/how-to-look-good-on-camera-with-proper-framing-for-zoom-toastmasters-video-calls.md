@@ -1,7 +1,6 @@
 +++
 categories = ["Tool Time for Toastmasters"]
 description = "How to Look Good on Camera with Proper Framing for Zoom Toastmasters Video Calls"
-draft = true
 image = ""
 tag = "#Toastmasters #TT4TM #virtualpresentations #lookgoodoncamera"
 title = "How to Look Good on Camera with Proper Framing for Zoom Toastmasters Video Calls"
