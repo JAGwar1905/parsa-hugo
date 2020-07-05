@@ -1,5 +1,6 @@
 +++
 categories = ["Tool Time for Toastmasters"]
+date = 2020-06-23T04:00:00Z
 description = "How to Look Good on Camera with Proper Framing for Zoom Toastmasters Video Calls"
 image = ""
 tag = "#Toastmasters #TT4TM #virtualpresentations #lookgoodoncamera"
