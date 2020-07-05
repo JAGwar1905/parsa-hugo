@@ -1,11 +1,9 @@
 
 
 
-    <!-- YouTube Video -->
-   
-  
-      
-          <iframe class="video-content" src="https://www.youtube.com/embed/{{ .Params.youtube }}?rel=0&amp;controls=0&amp;showinfo=0&amp;loop=1&amp;playlist={{ .Params.youtube }}&amp;autoplay=1{{ if .Site.Params.visual.video.mute }}&amp;mute=1{{ end }}" frameborder="0" allowfullscreen></iframe>
-
+  <!-- YouTube Video -->
+  <div class="embed-responsive embed-responsive-16by9"> 
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ .Params.youtube }}?rel=0&amp;controls=0&amp;showinfo=0&amp;loop=1&amp;playlist={{ .Params.youtube }}&amp;autoplay=1{{ if .Site.Params.visual.video.mute }}&amp;mute=1{{ end }}" frameborder="0" allowfullscreen></iframe>
+        </div>
  <!-- /YouTube Video -->
   

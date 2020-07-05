@@ -47,16 +47,20 @@
 
 <!-- YouTube -->
 <section class="section">
-  <div class="container-fluid">
+  <div class="container">
     <div class="row featured-post-slider">
       {{ range (where .Site.RegularPages "Type" "youtube")}}
+      
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
+        
         <article class="card bg-dark text-center text-white border-0 rounded-0">
           {{ partial "video" . }}
           <div class="card-img-overlay">
-            <div class="card-content">
-              <p class="text-uppercase">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
-              <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
+            
+          
+          <div class="card-content"  >
+              
+              <h4 class="card-title mb-1"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
               
             </div>
           </div>
