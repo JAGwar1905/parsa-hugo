@@ -5,7 +5,6 @@ description = "How to Look Good on Camera with Proper Framing for Zoom Toastmast
 image = ""
 tag = "#Toastmasters #TT4TM #virtualpresentations #lookgoodoncamera"
 title = "How to Look Good on Camera with Proper Framing for Zoom Toastmasters Video Calls"
-type = ""
 youtube = "4KyoW_nI0BE"
 
 +++
