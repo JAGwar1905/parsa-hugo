@@ -4,10 +4,23 @@ buildCommand: cd exampleSite && hugo --gc --themesDir ../..  # build command tha
 publishDir: exampleSite/public   # folder with the generated static site files
 staticDir: exampleSite/static  # folder with files that are copied to publishDir as is
 uploadDir: exampleSite/static/images  # folder with media files, relative to staticDir
-pagesDir: exampleSite/content  # folder with markdown page files
+pagesDir: exampleSite/content/**/*  # folder with markdown page files
 dataDir: / exampleSite/      # folder with data files (yaml, json, toml)
 excludePages: 
   - example/**/*
   - README.md
 models:
+    about:
+      type: page
+      lable: About Page
+      match: *.md
+      layout: about
+      fields:
+        ...
+    contact:
+      type: page
+      match: *.md
+      lablel: Contact Page
+      fields:
+        ...
   ... # see Stackbit Content Model documentation
