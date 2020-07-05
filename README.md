@@ -57,6 +57,7 @@ At the top we have shown an easy hugo installation. but still if you think you w
 $ git clone git@github.com:themefisher/parsa-hugo.git
 $ cd parsa-hugo/exampleSite/
 $ hugo server --themesDir ../..
+$ hugo server --themesDir ../.. --disableFastRender
 ```
 
 ## Reporting Issues
