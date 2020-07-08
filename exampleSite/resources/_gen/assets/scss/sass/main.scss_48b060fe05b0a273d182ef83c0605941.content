@@ -1,0 +1,15 @@
+
+
+
+$amanda-pink: #FEE7F5 !default;
+$amanda-yellow: #FFD747!default;
+$amanda-blue: #1D70A2!default;
+$amanda-green: #00522E!default;
+$amanda-black: #081621!default;
+
+
+$theme-colors: (
+  "bg-success":    $amanda-pink,
+  );
+
+

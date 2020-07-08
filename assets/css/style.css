@@ -8,6 +8,19 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
+
+// Amanda colors 
+$amanda-pink: #FEE7F5 !default;
+$amanda-yellow: #FFD747!default;
+$amanda-blue: #1D70A2!default;
+$amanda-green: #00522E!default;
+$amanda-black: #081621!default;
+
+// Overrides 
+
+$bg-success: $amanda-pink
+
+
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700");
 @font-face {
   font-family: 'hanskendrick';
